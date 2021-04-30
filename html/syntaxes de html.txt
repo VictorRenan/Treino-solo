@@ -1,0 +1,29 @@
+<html></html>   //* tudo que estiver dentro dessas duas tags sera definido como html.
+<title></title> //* define o titulo da pagina.
+<head></head> //* define a cabeça do site
+<body></body> //* modifica o corpo do site
+<body text =""> //* define a cor do texto da pagina
+<body bgcolor="" //* define a cor do fundo da pagina
+<body background="" //* escolher imagem para plano de fundo da pagina
+<h1></h1> //* define textos de titulos ate o <h6></h6>
+<h1 align = "" //* define a posição do texto, right, center ou left
+<p></p> //* define um paragrafo
+<br> //* quebra de linha
+<hr> //* mostra uma linha horizontal
+<i></i> e <em></em>  //* formata o texto determinado dentro da sintax em italico
+<b></b> e <strong></strong> //* formata o texto determinado dentro da sintax em negrito
+<u></u> //* formata o texto determinado dentro da sintax com sublinhado
+<font  face= ""></font> //* dentro das aspas definir uma fonte para formatar o texto
+<font size = ""></font> //*  define o tamanho da fonte do texto selecionado dentro da tag font, o limite é 7
+<font color = "" //* define a cor do teto selecionado dentro da tag font
+<img src = "">//* adiciona uma imagem
+<img title = ""> //* adiciona uma descrição quando passa o cursos em cima da imagem selecionada
+<img border = "">//* define uma borda para as imagens selecionadas pelo img
+<img width = ""> //* define a largura das imagens selecionadas dentro img
+<img height =""> //* define a altura das imagens selecionadas dentro do img
+<img hspace =""//* define a distancia dos espaço adjacentes da imagem
+<img vspace = ""//* define a distancia dos espaços em cima e embaixo da imagem
+<!-- --> //* faz comentarios em html
+&; //* adiciona caracteres especiais
+
+	
